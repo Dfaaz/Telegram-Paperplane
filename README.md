@@ -1,6 +1,6 @@
 # Paperplane userbot project
 
-![logo](https://telegra.ph/file/73cf4c62b2c64f981961e.png)
+![logo](https://scontent-sin6-2.cdninstagram.com/v/t51.2885-19/s150x150/93385518_213835686707621_6246126588740501504_n.jpg?_nc_ht=scontent-sin6-2.cdninstagram.com&_nc_cat=105&_nc_ohc=QBwGHWcU5bQAX_HoDmR&oh=fcd05989c0de957f2f5837e998f3aa7a&oe=5F25318A)
 
 ```
 #include <std/disclaimer.h>
